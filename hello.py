@@ -1,2 +1,2 @@
 print("Hello Github Actions done")
-print(hi sa
+print("i si")
